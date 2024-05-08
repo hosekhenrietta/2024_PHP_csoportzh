@@ -28,7 +28,7 @@
 ## Feladatok
 
 1. **Roxforti diákok névsora (4 pont)** A Roxfort egyes diákjainak névsora adott egy PHP adatszerkezetben.
-    - a\. (2 pont) Jelenítsd meg a diákok nevét és a patrónusát egy táblázatban!
+    - a\. (2 pont) Jelenítsd meg a diákok nevét, házát és a patrónusát egy táblázatban!
     - b\. (1 pont) A Táblázat alá írd ki a legtöbb karakterből álló patrónust!
 
 2. **Felvétel a Roxfortba (6 pont)** Készíts egy regisztációs felületet, ahol meg tudsz adni egy nevet, email címet és ki tudsz választani egy roxforti házat.
