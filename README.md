@@ -35,6 +35,6 @@
     - a\. (1 pont) Validáld a nevet: `legyen kitöltve - elég csak ezt validálni, kis és nagybetűkre, arra hogy két szóbol áll-e, nem kell figyelni` 
     - b\. (1 pont) Validáld a házat: `ki van-e választva valami - elég csak ezt validálni, nem kell nézni, hogy az helyes-e`
     - c\. (1,5 pont) A form legyen állapottartó!
-    - d\. (1,5 pont) Az elküldés gombra kattintva, ha valami nincs helyesen kitöltve, jelenjenek meg a hibaüzenetek bárhol az oldalon.
-    - e\. (1 pont) Az elküldés gombra kattintva, ha minden helyesen kitöltve, jelenjen meg egy "Sikeres regisztráció" felirat.
+    - d\. (1,5 pont) A felvétel gombra kattintva, ha valami nincs helyesen kitöltve, jelenjenek meg a hibaüzenetek bárhol az oldalon.
+    - e\. (1 pont) A felvétel gombra kattintva, ha minden helyesen kitöltve, jelenjen meg egy "Sikeres felvétel" felirat.
 
