@@ -32,8 +32,9 @@
     - b\. (1 pont) A Táblázat alá írd ki a legtöbb karakterből álló patrónust!
 
 2. **Felvétel a Roxfortba (6 pont)** Készíts egy regisztációs felületet, ahol meg tudsz adni egy nevet, email címet és ki tudsz választani egy roxforti házat.
-    - a\. (2 pont) Validáld a nevet: `legyen kitöltve - elég csak ezt validálni, kis és nagybetűkre, arra hogy két szóbol áll-e, nem kell figyelni` 
-    - b\. (2 pont) Validáld a házat: `ki van-e választva valami és az helyes-e`
+    - a\. (1 pont) Validáld a nevet: `legyen kitöltve - elég csak ezt validálni, kis és nagybetűkre, arra hogy két szóbol áll-e, nem kell figyelni` 
+    - b\. (1 pont) Validáld a házat: `ki van-e választva valami - elég csak ezt validálni, nem kell nézni, hogy az helyes-e`
     - c\. (1 pont) A form legyen állapottartó!
-    - d\. (1 pont) Az elküldés gombra kattintva, ha valami nincs helyesen kitöltve, jelenjenek meg a hibaüzenetek bárhol az oldalon.
+    - d\. (2 pont) Az elküldés gombra kattintva, ha valami nincs helyesen kitöltve, jelenjenek meg a hibaüzenetek bárhol az oldalon.
+    - e\. (1 pont) Az elküldés gombra kattintva, ha minden helyesen kitöltve, jelenjen meg egy "Sikeres regisztráció" felirat.
 
